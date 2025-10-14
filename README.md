@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<img width="25%" align="right" alt="GitHub" src="https://i.pinimg.com/originals/5b/c3/bd/5bc3bdcc81b4c0ce197b8c8dce5676e7.gif" />
+<img width="45%" align="right" alt="GitHub" src="https://cdnl.iconscout.com/lottie/premium/thumb/laptop-home-office-desk-animation-gif-download-10148511.gif" />
 
 - 🎓 I’m a **Mechatronics Engineer** and **Master’s student in Industrial Control**.  
 - 🤖 Passionate about **robotics, automation, and intelligent control systems**.  
@@ -32,25 +32,54 @@
 - ⚡ Fun fact: I love sci-fi, technology, and tactical video games.
 
 ---
-<h2> Skills 
+<h2> 🧠 Skills 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 </h2>
 
-<!-- Core Languages -->
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matlab.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"></a>
+<div align="center">
 
-<!-- Automation / Control -->
-<a href="#"><img width="32px" src="https://discovertemplate.com/wp-content/uploads/2024/04/Siemens.jpg" alt="Siemens"></a>
-<a href="#"><img width="32px" src="https://brandlogos.net/wp-content/uploads/2020/09/raspberry-pi-logo.png"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg"></a>
+  <!-- === Core Languages === -->
+  <h3>💻 Programming & Simulation</h3>
+  <p>
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python" />
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matlab.svg" alt="MATLAB" />
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" alt="C" />
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++" />
+  </p>
+  <p>
+    Experience developing control algorithms, simulations, and data analysis tools using Python and MATLAB.
+  </p>
 
-<!-- General Tech -->
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+  <!-- === Control & Automation === -->
+  <h3>⚙️ Control & Automation</h3>
+  <p>
+    <img width="45px" src="https://discovertemplate.com/wp-content/uploads/2024/04/Siemens.jpg" alt="Siemens PLC" />
+    <img width="40px" src="https://brandlogos.net/wp-content/uploads/2020/09/raspberry-pi-logo.png" alt="Raspberry Pi" />
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg" alt="OpenCV" />
+  </p>
+  <p>
+    Knowledge in PLC programming (Siemens LOGO!, TIA Portal), embedded systems, sensors & actuators, and real-time control.  
+    Currently exploring computer vision for robotic applications using OpenCV.
+  </p>
+
+  <!-- === Tools & General Tech === -->
+  <h3>🧰 Tools & Technologies</h3>
+  <p>
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub" />
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML5" />
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS3" />
+  </p>
+  <p>
+    Proficient with Git version control, QtDesigner for GUI design, and basic web integration for data visualization and system interfaces.
+  </p>
+
+  <!-- === Currently Learning === -->
+  <h3>📚 Currently Learning</h3>
+  <p>
+    Advanced control strategies, AI-based control, real-time data acquisition, and simulation tools integration.
+  </p>
+</div>
+
 
 ## Contact me:
 
